@@ -25,3 +25,4 @@ A Comparative study on RNN, LSTM, CNN and BiLSTM models Acoustic Doppler Current
 
 #### Counclusion
 To estimate the ocean current speed measured by ADCP (Acoustic Doppler Current Profiler), several Deep Learning models were put to the test. The CNN and Bi-LSTM were found to fit the data the best, with r2 values of 0.89 and 0.90, respectively. When model complexity is considered, Bi-LSTM looks to be the best option for predicting ocean current speed because it is less complex than CNN.
+https://github.com/AtchayaPraba/RNN-LSTM-BiLSTM.git
